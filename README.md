@@ -1,3 +1,6 @@
+### POINTS: 2
+### KEY: Good job on the one you did, and 1 was enough that day
+
 # Django Models and Foreign keys
 
 ### Exercise 1
